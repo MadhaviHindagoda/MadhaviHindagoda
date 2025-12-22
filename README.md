@@ -18,14 +18,10 @@
 
 ```javascript
 const madhavi = {
-    location: "Galle, Sri Lanka 🇱🇰",
-    role: "Software Engineer",
-    education: "Computer Science & Engineering",
-    currentFocus: ["Clean Architecture", "DevOps", "Machine Learning"],
-    workingOn: ["ERP Systems", "Mobile Applications", "ML Projects"],
+    education: "Computer Engineering",
+    currentFocus: ["Software Engineering", "DevOps", "Machine Learning"],
+    workingOn: ["Web Development", "ML Projects"],
     askMeAbout: ["C#", ".NET", "Java", "Python", "System Design"],
-    funFact: "I turn coffee into code ☕ → 💻",
-    goals2024: "Master cloud architecture and contribute to open source"
 };
 ```
 
@@ -33,7 +29,6 @@ const madhavi = {
 
 ### 🎯 What I'm Up To
 
-- 🔭 Building enterprise-grade applications with **Clean Architecture**
 - 🌱 Exploring **Cloud Computing** and **Microservices**
 - 👯 Open to collaborate on **innovative projects**
 - 💡 Learning **Machine Learning** and **AI Integration**
