@@ -102,62 +102,6 @@ const madhavi = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/MadhaviHindagoda/ERP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadhaviHindagoda&repo=ERP&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/MadhaviHindagoda/IndividualProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadhaviHindagoda&repo=IndividualProject&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/MadhaviHindagoda/Image_Sharing_App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadhaviHindagoda&repo=Image_Sharing_App&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/MadhaviHindagoda/Mental_Health_Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadhaviHindagoda&repo=Mental_Health_Prediction&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### 💼 Key Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[ERP System](https://github.com/MadhaviHindagoda/ERP)** | Enterprise Resource Planning system with Clean Architecture | C#, .NET, SQL Server |
-| **[Individual Project](https://github.com/MadhaviHindagoda/IndividualProject)** | Comprehensive application showcasing best practices | C#, ASP.NET |
-| **[Image Sharing App](https://github.com/MadhaviHindagoda/Image_Sharing_App)** | Android application for image sharing & management | Java, Android SDK |
-| **[Mental Health Prediction](https://github.com/MadhaviHindagoda/Mental_Health_Prediction)** | ML model for mental health analysis | Python, Scikit-learn, Jupyter |
-| **[Test DevOps](https://github.com/MadhaviHindagoda/Test_DevOps)** | DevOps pipeline implementation | Docker, CI/CD |
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MadhaviHindagoda&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/MadhaviHindagoda/MadhaviHindagoda/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect!
@@ -178,8 +122,6 @@ I'm always interested in collaborating on innovative projects or discussing new 
 
 <div align="center">
   
-### ✨ "Code is like humor. When you have to explain it, it's bad." – Cory House
-
 **Thanks for visiting! Don't forget to ⭐ some repositories if you find them interesting!**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
